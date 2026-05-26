@@ -1,72 +1,73 @@
 # ObeautyCase Products
 
-Global OEM & ODM manufacturing resources for cosmetic cases, makeup bags, salon furniture, beauty storage solutions, and travel accessories.
+ObeautyCase is a professional OEM & ODM manufacturer specializing in cosmetic cases, makeup bags, nail cases, salon furniture, beauty storage solutions, and travel accessories.
+
+Established in 1999, we integrate product development, manufacturing, and global export services for beauty brands, wholesalers, distributors, and retailers worldwide.
+
+---
+
+## Manufacturing Capability
+
+- 20,000㎡ production facility
+- 400+ employees
+- 50-member international trade team
+- 100+ advanced production machines
+- Professional quality control system
+- OEM & ODM customization support
 
 ---
 
 ## Product Categories
 
-- Cosmetic Cases
-- Makeup Bags
-- Nail Cases
-- Makeup Train Cases
-- Salon Chairs
-- Beauty Storage Solutions
-- Travel Bags
+### Cosmetic Cases
+Professional aluminum and ABS makeup train cases for beauty professionals and retail distribution.
+
+### Makeup Bags
+Travel-friendly cosmetic bags and beauty organizers with OEM branding support.
+
+### Nail Cases & Nail Tables
+Portable nail technician cases and manicure workstation solutions.
+
+### Salon Furniture
+Professional salon chairs and beauty workstation equipment.
+
+### Beauty Storage Solutions
+Customized beauty storage systems for cosmetics, tools, and accessories.
 
 ---
 
-## Manufacturing Support
+## Global Export Markets
 
-- OEM & ODM Production
-- Private Label Service
-- Product Development
-- Sample Customization
-- Global Export Support
-- Bulk Manufacturing
-
----
-
-## Business Focus
-
-ObeautyCase supports global beauty brands, wholesalers, distributors, and cross-border e-commerce sellers with integrated manufacturing and export solutions.
-
----
-
-## Official Website
-
-https://obeautycase.com/
-
----
-
-## LinkedIn
-
-https://www.linkedin.com/in/dylan-lin-31366a3a5/
-
----
-
-## Global Markets
+Our products are exported to:
 
 - United States
 - United Kingdom
 - France
 - Brazil
 - South Korea
-- United Arab Emirates
+- UAE
+- Europe & North America
 
 ---
 
-## Manufacturing Base
+## Repository Resources
 
-Foshan, China
+This repository contains:
 
----
-
-## Repository Purpose
-
-This repository is used for:
 - Product documentation
-- Manufacturing resources
-- Business assets
-- Brand infrastructure
-- Global product information
+- Product images
+- Manufacturing references
+- OEM & ODM resources
+- Product collections
+- Export product assets
+
+---
+
+🌍 Official Website  
+https://obeautycase.com/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/dylan-lin-31366a3a5/
+
+📍 Manufacturing Base  
+Foshan, Guangdong, China
