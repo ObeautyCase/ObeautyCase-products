@@ -55,3 +55,6 @@ This catalog system is used for:
 
 🌍 Official Website  
 https://obeautycase.com/
+
+💼 LinkedIn
+https://www.linkedin.com/in/alex-lee-31366a3a5/
