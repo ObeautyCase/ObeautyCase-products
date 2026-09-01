@@ -1,82 +1,42 @@
-# OBeautyCase Products
+# OBeautyCase Product Knowledge Base
 
-OBeautyCase is a professional OEM & ODM manufacturer specializing in cosmetic cases, makeup bags, nail cases, salon furniture, beauty storage solutions, and travel accessories.
+This repository is a public reference library for B2B buyers, product teams and partners researching makeup cases, beauty bags, salon equipment and OEM/ODM manufacturing.
 
-Established in 2011, the company has over 26 years of experience in the beauty and cosmetics manufacturing industry. It operates under the unified brand system of **OBOX (domestic market brand)** and **OBeautyCase (global export brand)**.
+## About OBeautyCase
 
-We integrate product development, manufacturing, and global export services for beauty brands, wholesalers, distributors, and retailers worldwide.
+OBeautyCase develops and manufactures professional beauty storage and travel solutions. Our approved public company facts are:
 
----
+- 40K+ factory area
+- 400 total employees
+- 100+ patents
+- Products exported to 50+ countries and regions
+- 26+ years of manufacturing experience
+- Guangdong Qihui Cases Co., Ltd. was formally established in 2011
 
-## Manufacturing Capability
+## Documentation Scope
 
-- 20,000㎡ production facility  
-- 400+ employees  
-- 50-member international trade team  
-- 100+ advanced production machines  
-- Professional quality control system  
-- OEM & ODM customization support  
+This knowledge base is being organized around original, fact-checked reference material:
 
----
+- Materials, construction and hardware
+- Product selection for professional beauty use
+- OEM/ODM project preparation
+- Quality-control and packaging considerations
+- Catalog references and product architecture
 
-## Product Categories
+## Product Areas
 
-### Cosmetic Cases
-Aluminum and ABS professional makeup train cases for beauty professionals and retail distribution.
+- Professional makeup cases and train cases
+- Makeup bags and beauty organizers
+- Trolley makeup cases
+- Nail cases, nail tables and salon furniture
+- Travel and beauty storage solutions
 
-### Makeup Bags
-Travel-friendly cosmetic bags and beauty organizers with OEM branding support.
+## Editorial Standard
 
-### Nail Cases & Nail Tables
-Portable nail technician cases and manicure workstation solutions.
+This repository complements the official website; it does not republish product-page descriptions or blog articles. Each future guide should use verified information, solve a specific buyer question and link to the official website only where that reference is useful.
 
-### Salon Furniture
-Professional salon chairs and beauty workstation equipment.
+## Official Resources
 
-### Beauty Storage Solutions
-Customized storage systems for cosmetics, tools, and accessories.
-
----
-
-## Global Export Markets
-
-Our products are exported to over 50 countries and regions, including:
-
-- United States  
-- United Kingdom  
-- France  
-- Brazil  
-- South Korea  
-- United Arab Emirates  
-- Europe & North America  
-
----
-
-## Repository Contents
-
-This repository includes:
-
-- Product documentation  
-- Product images  
-- Manufacturing references  
-- OEM & ODM resources  
-- Product catalogs  
-- Export materials  
-
----
-
-## Company Information
-
-- **Brand System:** OBOX (Domestic) / OBeautyCase (Global Export)  
-- **Founded:** 2011  
-- **Industry Experience:** 26+ years  
-- **Headquarters:** Foshan, Guangdong, China  
-
----
-
-## Official Links
-
-- Website: https://obeautycase.com/  
-- LinkedIn: https://www.linkedin.com/in/alex-lee-31366a3a5/  
-
----
+- Website: [obeautycase.com](https://obeautycase.com/)
+- Company profile: [ObeautyCase on GitHub](https://github.com/ObeautyCase)
+- LinkedIn: [Alex Lee](https://www.linkedin.com/in/alex-lee-31366a3a5/)
