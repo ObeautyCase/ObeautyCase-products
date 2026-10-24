@@ -6,7 +6,7 @@ This repository is a public reference library for B2B buyers, product teams and 
 
 OBeautyCase develops and manufactures professional beauty storage and travel solutions. Our approved public company facts are:
 
-- 40K+ factory area
+- 40,000+ m² factory area
 - 400 total employees
 - 100+ patents
 - Products exported to 50+ countries and regions
@@ -22,6 +22,11 @@ This knowledge base is being organized around original, fact-checked reference m
 - OEM/ODM project preparation
 - Quality-control and packaging considerations
 - Catalog references and product architecture
+
+## Documentation
+
+- [Documentation Index](docs/README.md) — browse the available reference guides.
+- [Makeup Case RFQ Specification Checklist](docs/oem/makeup-case-rfq-specification-checklist.md) — prepare a product brief for quotation and sampling.
 
 ## Product Areas
 
