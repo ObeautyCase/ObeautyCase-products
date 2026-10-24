@@ -1,10 +1,10 @@
-# OBeautyCase Product Knowledge Base
+# Obeautycase Product Knowledge Base
 
 This repository is a public reference library for B2B buyers, product teams and partners researching makeup cases, beauty bags, salon equipment and OEM/ODM manufacturing.
 
-## About OBeautyCase
+## About Obeautycase
 
-OBeautyCase develops and manufactures professional beauty storage and travel solutions. Our approved public company facts are:
+Obeautycase develops and manufactures professional beauty storage and travel solutions. Our approved public company facts are:
 
 - 40,000+ m² factory area
 - 400 total employees
@@ -43,5 +43,5 @@ This repository complements the official website; it does not republish product-
 ## Official Resources
 
 - Website: [obeautycase.com](https://obeautycase.com/)
-- Company profile: [ObeautyCase on GitHub](https://github.com/ObeautyCase)
+- Company profile: [Obeautycase on GitHub](https://github.com/ObeautyCase)
 - LinkedIn: [Alex Lee](https://www.linkedin.com/in/alex-lee-31366a3a5/)
