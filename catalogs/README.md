@@ -1,6 +1,6 @@
 # Product Catalogs
 
-This section contains product collections, export references, and manufacturing resources for ObeautyCase product lines.
+This section contains product collections, export references, and manufacturing resources for Obeautycase product lines.
 
 ---
 
