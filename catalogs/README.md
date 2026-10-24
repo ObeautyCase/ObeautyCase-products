@@ -7,8 +7,8 @@ This section contains product collections, export references, and manufacturing 
 ## Main Product Categories
 
 - Cosmetic Cases
-- Makeup Bags
-- Rolling Makeup Cases
+- [Makeup Bags](Makeup-Bags/README.md)
+- [Rolling Makeup Cases](Trolley-Makeup-Case/README.md)
 - Nail Cases
 - Nail Tables
 - Salon Furniture
